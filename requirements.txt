@@ -1,0 +1,12 @@
+beautifulsoup4
+requests
+newspaper3k
+nltk
+transformers
+torch
+openai-whisper
+streamlit
+fastapi
+uvicorn
+gradio
+pydantic
